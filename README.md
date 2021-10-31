@@ -26,7 +26,7 @@ Above you can see the visual that was created to show the Pyber Fare Summary in 
 
 **SUMMARY**
 
-There three recommendations I have for this business.
+There are three recommendations I have for this business.
 1. Send out marketing ensentives to individuals in the Rural cities to hopefully increase the amount of drivers there are. It seems that due to the fact that there are more total rides than there are drivers in those areas that the increase in drivers will cut down on wait time for customers.
 
 2. If we do a quartarly report on the Total Fare by City Type we may find an answer on how to keep rides more consistant throughout the year.
